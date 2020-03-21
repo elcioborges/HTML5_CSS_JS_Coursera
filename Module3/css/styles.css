@@ -28,7 +28,7 @@ body {
 }
 #nav-list a {
   color: gray;
-  text-align: center;
+
   background-color: gray;
 }
 #nav-list a:hover {
